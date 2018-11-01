@@ -1,0 +1,21 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+/js/bootstrap.min.js.map
+/css/bootstrap-grid.min.css.map
+/css/bootstrap.min.css.map
+/css/bootstrap-reboot.min.css.map
+/css/bootstrap-reboot.css
